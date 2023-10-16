@@ -32,15 +32,15 @@ header > h1 {
     background-color: rgb(58, 58, 58);
 }
 
-menu {
+menu#itens {
     display: none;
 }
 
-menu > ul {
+menu#itens > ul {
     list-style-type: none;
 }
 
-menu a {
+menu#itens a {
     display: block;
     padding: 10px;
     text-decoration: none;
